@@ -1,0 +1,943 @@
+[
+    {
+        "NAME": "LINE TESTERS",
+        "1 IMAGE PER ITEM": true,
+        "DESCRIPTION": "BEST QUALITY LINE TESTERS",
+        "PRODUCTS": [
+            {
+                "ITEM CODE": 101,
+                "ITEM NAME": "TESTER POPULAR GOLD",
+                "RATE": 30,
+                "PKG": 50
+            },
+            {
+                "ITEM CODE": 102,
+                "ITEM NAME": "TESTER GREENO",
+                "RATE": 30,
+                "PKG": 50
+            },
+            {
+                "ITEM CODE": 104,
+                "ITEM NAME": "TESTER SAATHI",
+                "RATE": 35,
+                "PKG": 50
+            },
+            {
+                "ITEM CODE": 105,
+                "ITEM NAME": "TESTER SAATHI DOUBLE LIGHT",
+                "RATE": 43,
+                "PKG": 50
+            },
+            {
+                "ITEM CODE": 106,
+                "ITEM NAME": "SUPER SAATHI",
+                "RATE": 46,
+                "PKG": 50
+            },
+            {
+                "ITEM CODE": 107,
+                "ITEM NAME": "CHHOTA SAATHI SMALL LINE TESTER",
+                "RATE": 31,
+                "PKG": 100
+            },
+            {
+                "ITEM CODE": 111,
+                "ITEM NAME": "TESTER JYOTI INDUSTRIAL",
+                "RATE": 53,
+                "PKG": 10
+            },
+            {
+                "ITEM CODE": 112,
+                "ITEM NAME": "TESTER HEAVY INDUSTRIAL",
+                "RATE": 55,
+                "PKG": 10
+            },
+            {
+                "ITEM CODE": 121,
+                "ITEM NAME": "TESTER MASTER CONTINUITY",
+                "RATE": 53,
+                "PKG": 50
+            },
+            {
+                "ITEM CODE": 122,
+                "ITEM NAME": "WIRE CONTINUITY",
+                "RATE": 58,
+                "PKG": 50
+            }
+        ]
+    },
+    {
+        "NAME": "GENERAL",
+        "SUB": [
+            {
+                "NAME": "2 PIN TOP",
+                "1 IMAGE PER ITEM": true,
+                "PRODUCTS": [
+                    {
+                        "ITEM CODE": 143,
+                        "ITEM NAME": "2 PIN TOP",
+                        "RATE": 24,
+                        "PKG": 30
+                    },
+                    {
+                        "ITEM CODE": 144,
+                        "ITEM NAME": "2 pin Male Female",
+                        "RATE": 42,
+                        "PKG": 30
+                    }
+                ]
+            },
+            {
+                "NAME": "MODULAR SURFACE BOX",
+                "1 IMAGE PER ITEM": false,
+                "PRODUCTS": [
+                    {
+                        "ITEM CODE": 241,
+                        "ITEM NAME": "1M SURFACE GANG BOX",
+                        "RATE": 45,
+                        "PKG": 20
+                    },
+                    {
+                        "ITEM CODE": 242,
+                        "ITEM NAME": "2M SURFACE GANG BOX",
+                        "RATE": 58,
+                        "PKG": 20
+                    },
+                    {
+                        "ITEM CODE": 243,
+                        "ITEM NAME": "3M SURFACE GANG BOX",
+                        "RATE": 66,
+                        "PKG": 10
+                    },
+                    {
+                        "ITEM CODE": 244,
+                        "ITEM NAME": "4M SURFACE GANG BOX",
+                        "RATE": 84,
+                        "PKG": 10
+                    },
+                    {
+                        "ITEM CODE": 245,
+                        "ITEM NAME": "6M SURFACE GANG BOX",
+                        "RATE": 108,
+                        "PKG": 10
+                    },
+                    {
+                        "ITEM CODE": 246,
+                        "ITEM NAME": "8M H SURFACE GANG BOX",
+                        "RATE": 130,
+                        "PKG": 10
+                    },
+                    {
+                        "ITEM CODE": 247,
+                        "ITEM NAME": "8M SQ SURFACE GANG BOX",
+                        "RATE": 130,
+                        "PKG": 10
+                    },
+                    {
+                        "ITEM CODE": 248,
+                        "ITEM NAME": "12M SURFACE GANG BOX",
+                        "RATE": 165,
+                        "PKG": 5
+                    },
+                    {
+                        "ITEM CODE": 249,
+                        "ITEM NAME": "16M SURFACE GANG BOX",
+                        "RATE": 200,
+                        "PKG": 5
+                    },
+                    {
+                        "ITEM CODE": 250,
+                        "ITEM NAME": "18M SURFACE GANG BOX",
+                        "RATE": 220,
+                        "PKG": 5
+                    }
+                ]
+            },
+            {
+                "NAME": "OPEN SURFACE BOX",
+                "1 IMAGE PER ITEM": false,
+                "PRODUCTS": [
+                    {
+                        "ITEM CODE": 253,
+                        "ITEM NAME": "1/2M SURFACE OPEN BOX",
+                        "RATE": 64,
+                        "PKG": 20
+                    },
+                    {
+                        "ITEM CODE": 254,
+                        "ITEM NAME": "3M SURFACE OPEN BOX",
+                        "RATE": 73,
+                        "PKG": 10
+                    },
+                    {
+                        "ITEM CODE": 255,
+                        "ITEM NAME": "4M SURFACE OPEN BOX",
+                        "RATE": 83,
+                        "PKG": 10
+                    },
+                    {
+                        "ITEM CODE": 256,
+                        "ITEM NAME": "6M SURFACE OPEN BOX",
+                        "RATE": 99,
+                        "PKG": 10
+                    },
+                    {
+                        "ITEM CODE": 257,
+                        "ITEM NAME": "8M H SURFACE OPEN BOX",
+                        "RATE": 130,
+                        "PKG": 10
+                    },
+                    {
+                        "ITEM CODE": 258,
+                        "ITEM NAME": "8MSQ SURFACE OPEN BOX",
+                        "RATE": 130,
+                        "PKG": 5
+                    },
+                    {
+                        "ITEM CODE": 259,
+                        "ITEM NAME": "12M SURFACE OPEN BOX",
+                        "RATE": 160,
+                        "PKG": 5
+                    },
+                    {
+                        "ITEM CODE": 260,
+                        "ITEM NAME": "18M SURFACE OPEN BOX",
+                        "RATE": 211,
+                        "PKG": 5
+                    }
+                ]
+            },
+            {
+                "NAME": "PLATES",
+                "1 IMAGE PER ITEM": true,
+                "PRODUCTS": [
+                    {
+                        "ITEM CODE": 801,
+                        "ITEM NAME": "ROUND PLATE 3.5",
+                        "RATE": 8,
+                        "PKG": 100
+                    },
+                    {
+                        "ITEM CODE": 802,
+                        "ITEM NAME": "ROUND PLATE 4",
+                        "RATE": 12,
+                        "PKG": 50
+                    },
+                    {
+                        "ITEM CODE": 803,
+                        "ITEM NAME": "ROUND PLATE 5",
+                        "RATE": 22,
+                        "PKG": 50
+                    },
+                    {
+                        "ITEM CODE": 804,
+                        "ITEM NAME": "FAN PLATE 6.5",
+                        "RATE": 35,
+                        "PKG": 10
+                    },
+                    {
+                        "ITEM CODE": 805,
+                        "ITEM NAME": "SQUARE PLATE 4X4",
+                        "RATE": 22,
+                        "PKG": 10
+                    },
+                    {
+                        "ITEM CODE": 806,
+                        "ITEM NAME": "SQUARE PLATE 4.5\"X4.5",
+                        "RATE": 37,
+                        "PKG": 20
+                    },
+                    {
+                        "ITEM CODE": 807,
+                        "ITEM NAME": "SQUARE PLATE 4.5\"X6.5",
+                        "RATE": 50,
+                        "PKG": 10
+                    }
+                ]
+            },
+            {
+                "NAME": "MULTIPLUGS",
+                "1 IMAGE PER ITEM": true,
+                "PRODUCTS": [
+                    {
+                        "ITEM CODE": 822,
+                        "ITEM NAME": "MULTIPLUG FANCY 6AMP.",
+                        "RATE": 71,
+                        "PKG": 20
+                    },
+                    {
+                        "ITEM CODE": 823,
+                        "ITEM NAME": "MULTI PLUG PRIDE",
+                        "RATE": 71,
+                        "PKG": 20
+                    },
+                    {
+                        "ITEM CODE": 824,
+                        "ITEM NAME": "MULTIPLUG UNO",
+                        "RATE": 75,
+                        "PKG": 10
+                    },
+                    {
+                        "ITEM CODE": 825,
+                        "ITEM NAME": "SUV MULTIPLUG",
+                        "RATE": 75,
+                        "PKG": 10
+                    },
+                    {
+                        "ITEM CODE": 831,
+                        "ITEM NAME": "MULTI PLUG JUMBO 6A/13A",
+                        "RATE": 149,
+                        "PKG": 10
+                    },
+                    {
+                        "ITEM CODE": 832,
+                        "ITEM NAME": "MULTI PLUG JUMBO 6A/16A",
+                        "RATE": 158,
+                        "PKG": 10
+                    }
+                ]
+            },
+            {
+                "NAME": "",
+                "1 IMAGE PER ITEM": true,
+                "PRODUCTS": [
+                    {
+                        "ITEM CODE": 811,
+                        "ITEM NAME": "MCB. 1 WAY, 2WAY  PC",
+                        "RATE": 53,
+                        "PKG": 10
+                    },
+                    {
+                        "ITEM CODE": 812,
+                        "ITEM NAME": "MCB 3way, 4way  PC",
+                        "RATE": 79,
+                        "PKG": 5
+                    },
+                    {
+                        "ITEM CODE": 820,
+                        "ITEM NAME": "CAMERA BOX  P.P.",
+                        "RATE": 44,
+                        "PKG": 4
+                    },
+                    {
+                        "ITEM CODE": 839,
+                        "ITEM NAME": "CANOPY WIRE WITH ES HOLDER",
+                        "RATE": "",
+                        "PKG": 6
+                    },
+                    {
+                        "ITEM CODE": 840,
+                        "ITEM NAME": "CANOPY WIRE WITH B22 HOLDER",
+                        "RATE": 108,
+                        "PKG": 6
+                    },
+                    {
+                        "ITEM CODE": 842,
+                        "ITEM NAME": "8\" SHADE PP ROUND",
+                        "RATE": 37,
+                        "PKG": 20
+                    },
+                    {
+                        "ITEM CODE": 843,
+                        "ITEM NAME": "11\" SHADE PC BLACK",
+                        "RATE": "",
+                        "PKG": 4
+                    },
+                    {
+                        "ITEM CODE": "",
+                        "ITEM NAME": "FAN REGULATOR",
+                        "RATE": 130,
+                        "PKG": 10
+                    },
+                    {
+                        "ITEM CODE": "",
+                        "ITEM NAME": "GATE LIGHT STAND",
+                        "RATE": 55,
+                        "PKG": 10
+                    }
+                ]
+            }
+        ],
+        "DESCRIPTION": "BEST QUALITY SURFACE BOXES, PLATES, BOXES, MULTIPLUGS and 2 PIN TOPS"
+    },
+    {
+        "NAME": "DOOR BELL",
+        "SUB": [
+            {
+                "NAME": "BIRD CHIME",
+                "1 IMAGE PER ITEM": true,
+                "PRODUCTS": [
+                    {
+                        "ITEM CODE": 401,
+                        "ITEM NAME": "LOVE BIRD BELL",
+                        "RATE": 174,
+                        "PKG": 5
+                    },
+                    {
+                        "ITEM CODE": 402,
+                        "ITEM NAME": "CUTE BIRD BELL",
+                        "RATE": 174,
+                        "PKG": 5
+                    },
+                    {
+                        "ITEM CODE": 403,
+                        "ITEM NAME": "MINI PARROT BELL",
+                        "RATE": 192,
+                        "PKG": 5
+                    },
+                    {
+                        "ITEM CODE": 404,
+                        "ITEM NAME": "SPARROW BIRD BELL",
+                        "RATE": 174,
+                        "PKG": 5
+                    },
+                    {
+                        "ITEM CODE": 409,
+                        "ITEM NAME": "PARROT BELL",
+                        "RATE": 278,
+                        "PKG": 5
+                    }
+                ]
+            },
+            {
+                "NAME": "BUZZER",
+                "1 IMAGE PER ITEM": true,
+                "PRODUCTS": [
+                    {
+                        "ITEM CODE": 411,
+                        "ITEM NAME": "BUZZER DONG",
+                        "RATE": 84,
+                        "PKG": 10
+                    },
+                    {
+                        "ITEM CODE": 412,
+                        "ITEM NAME": "BUZZER PILOT",
+                        "RATE": 84,
+                        "PKG": 10
+                    },
+                    {
+                        "ITEM CODE": 413,
+                        "ITEM NAME": "GONG BELL",
+                        "RATE": 184,
+                        "PKG": 5
+                    }
+                ]
+            },
+            {
+                "NAME": "DING DONG",
+                "1 IMAGE PER ITEM": true,
+                "PRODUCTS": [
+                    {
+                        "ITEM CODE": 421,
+                        "ITEM NAME": "DING DONG BELL PRIDE",
+                        "RATE": 211,
+                        "PKG": 5
+                    },
+                    {
+                        "ITEM CODE": 422,
+                        "ITEM NAME": "DING DONG BELL VISTA",
+                        "RATE": 211,
+                        "PKG": 5
+                    },
+                    {
+                        "ITEM CODE": 423,
+                        "ITEM NAME": "DING DONG BELL GOLD",
+                        "RATE": 218,
+                        "PKG": 5
+                    },
+                    {
+                        "ITEM CODE": 425,
+                        "ITEM NAME": "DING DONG BELL WOOFER",
+                        "RATE": 218,
+                        "PKG": 5
+                    },
+                    {
+                        "ITEM CODE": 429,
+                        "ITEM NAME": "DING DONG BELL STEREO",
+                        "RATE": 397,
+                        "PKG": 5
+                    }
+                ]
+            },
+            {
+                "NAME": "VOCAL MUSICAL",
+                "SUB": [
+                    {
+                        "NAME": "MODULAR MUSICAL BELLS",
+                        "1 IMAGE PER ITEM": false,
+                        "PRODUCTS": [
+                            {
+                                "ITEM CODE": 441,
+                                "ITEM NAME": "SOUTH SPECIAL",
+                                "RATE": 355,
+                                "PKG": 5
+                            },
+                            {
+                                "ITEM CODE": 442,
+                                "ITEM NAME": "KUKOO",
+                                "RATE": 355,
+                                "PKG": 5
+                            },
+                            {
+                                "ITEM CODE": 443,
+                                "ITEM NAME": "SINGING TWITTY",
+                                "RATE": 355,
+                                "PKG": 5
+                            },
+                            {
+                                "ITEM CODE": 444,
+                                "ITEM NAME": "POLYPHONIC 3-IN-ONE",
+                                "RATE": 355,
+                                "PKG": 5
+                            },
+                            {
+                                "ITEM CODE": 445,
+                                "ITEM NAME": "GAYATRI MANTRA",
+                                "RATE": 355,
+                                "PKG": 5
+                            },
+                            {
+                                "ITEM CODE": 446,
+                                "ITEM NAME": "OM NAMAHA SHIVAYA",
+                                "RATE": 355,
+                                "PKG": 5
+                            },
+                            {
+                                "ITEM CODE": 447,
+                                "ITEM NAME": "PLEASE OPEN THE DOOR",
+                                "RATE": 355,
+                                "PKG": 5
+                            },
+                            {
+                                "ITEM CODE": 448,
+                                "ITEM NAME": "AZZAN",
+                                "RATE": 355,
+                                "PKG": 5
+                            },
+                            {
+                                "ITEM CODE": 449,
+                                "ITEM NAME": "CHURCH",
+                                "RATE": 355,
+                                "PKG": 5
+                            },
+                            {
+                                "ITEM CODE": 450,
+                                "ITEM NAME": "MULTI TUNE",
+                                "RATE": 355,
+                                "PKG": 5
+                            }
+                        ]
+                    },
+                    {
+                        "NAME": "REDMI MUSICAL BELLS",
+                        "1 IMAGE PER ITEM": false,
+                        "PRODUCTS": [
+                            {
+                                "ITEM CODE": 451,
+                                "ITEM NAME": "SOUTH SPECIAL",
+                                "RATE": 305,
+                                "PKG": 5
+                            },
+                            {
+                                "ITEM CODE": 452,
+                                "ITEM NAME": "KUKOO",
+                                "RATE": 305,
+                                "PKG": 5
+                            },
+                            {
+                                "ITEM CODE": 453,
+                                "ITEM NAME": "SINGING TWITTY",
+                                "RATE": 305,
+                                "PKG": 5
+                            },
+                            {
+                                "ITEM CODE": 454,
+                                "ITEM NAME": "POLYPHONIC 3-IN-ONE",
+                                "RATE": 305,
+                                "PKG": 5
+                            },
+                            {
+                                "ITEM CODE": 455,
+                                "ITEM NAME": "GAYATRI MANTRA",
+                                "RATE": 305,
+                                "PKG": 5
+                            },
+                            {
+                                "ITEM CODE": 456,
+                                "ITEM NAME": "OM NAMAHA SHIVAYA",
+                                "RATE": 305,
+                                "PKG": 5
+                            },
+                            {
+                                "ITEM CODE": 457,
+                                "ITEM NAME": "PLEASE OPEN THE DOOR",
+                                "RATE": 305,
+                                "PKG": 5
+                            },
+                            {
+                                "ITEM CODE": 458,
+                                "ITEM NAME": "AZZAN",
+                                "RATE": 305,
+                                "PKG": 5
+                            },
+                            {
+                                "ITEM CODE": 459,
+                                "ITEM NAME": "CHURCH",
+                                "RATE": 305,
+                                "PKG": 5
+                            },
+                            {
+                                "ITEM CODE": 460,
+                                "ITEM NAME": "MULTI TUNE",
+                                "RATE": 305,
+                                "PKG": 5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "DESCRIPTION": "BEST QUALITY BIRD CHIME, BUZZER, DING DONG BELL AND VOCAL MUSICAL BELLS"
+    },
+    {
+        "NAME": "POWER STRIP",
+        "1 IMAGE PER ITEM": true,
+        "DESCRIPTION": "BEST QUALITY POWER STRIPS",
+        "PRODUCTS": [
+             {
+                "ITEM CODE": 476,
+                "ITEM NAME": "POWER STRIP 1+4 2 Meter",
+                "RATE": 376,
+                "PKG": 5
+            },
+            {
+                "ITEM CODE": 477,
+                "ITEM NAME": "POWER STRIP 1+4 5 Meter",
+                "RATE": 499,
+                "PKG": 5
+            },
+            {
+                "ITEM CODE": 481,
+                "ITEM NAME": "POWER STRIP 4+4 2 Meter",
+                "RATE": 544,
+                "PKG": 1
+            },
+            {
+                "ITEM CODE": 482,
+                "ITEM NAME": "POWER STRIP 4+4 5 Meter",
+                "RATE": 670,
+                "PKG": 1
+            }
+        ]
+    },
+    {
+        "NAME": "BULKHEAD",
+        "1 IMAGE PER ITEM": true,
+        "DESCRIPTION": "BEST QUALITY BULKHEAD",
+        "PRODUCTS": [
+            {
+                "ITEM CODE": 602,
+                "ITEM NAME": "C.F.L. CAPSULE 14W",
+                "RATE": 170,
+                "PKG": 1
+            },
+            {
+                "ITEM CODE": 603,
+                "ITEM NAME": "C.F.L.  CAPSULE 30W  WHITE",
+                "RATE": 220,
+                "PKG": 1
+            },
+            {
+                "ITEM CODE": 604,
+                "ITEM NAME": "C.F.L. WALL LIGHT 18W",
+                "RATE": 220,
+                "PKG": 1
+            },
+            {
+                "ITEM CODE": 606,
+                "ITEM NAME": "C.F.L. PC   CAPSULE 30W   WHITE",
+                "RATE": 355,
+                "PKG": 1
+            },
+            {
+                "ITEM CODE": 607,
+                "ITEM NAME": "C.F.L. 14W PC",
+                "RATE": 240,
+                "PKG": 1
+            },
+            {
+                "ITEM CODE": 608,
+                "ITEM NAME": "C.F.L. OVAL 14W  BLACK/WHITE",
+                "RATE": 315,
+                "PKG": 1
+            },
+            {
+                "ITEM CODE": 611,
+                "ITEM NAME": "C.F.L. BULKHEAD 18W JALI BLACK",
+                "RATE": 225,
+                "PKG": 1
+            },
+            {
+                "ITEM CODE": 612,
+                "ITEM NAME": "C.F.L. BULKHEAD 18W WHITE",
+                "RATE": 220,
+                "PKG": 1
+            },
+            {
+                "ITEM CODE": 613,
+                "ITEM NAME": "C.F.L. BULKHEAD 14W JALI WHITE",
+                "RATE": 260,
+                "PKG": 1
+            },
+            {
+                "ITEM CODE": 632,
+                "ITEM NAME": "GATE LIGHT 8",
+                "RATE": 433,
+                "PKG": 2
+            }
+        ]
+    },
+    {
+        "NAME": "HOLDERS",
+        "1 IMAGE PER ITEM": true,
+        "DESCRIPTION": "BEST QUALITY HOLDERS",
+        "PRODUCTS": [
+            {
+                "ITEM CODE": 711,
+                "ITEM NAME": "LAMP HOLDER",
+                "RATE": 17,
+                "PKG": 100
+            },
+            {
+                "ITEM CODE": 712,
+                "ITEM NAME": "BRACKET HOLDER",
+                "RATE": 19,
+                "PKG": 100
+            },
+            {
+                "ITEM CODE": 713,
+                "ITEM NAME": "2 Slot holder PBD",
+                "RATE": 21,
+                "PKG": 100
+            },
+            {
+                "ITEM CODE": 715,
+                "ITEM NAME": "Bracket Holder grey",
+                "RATE": 21,
+                "PKG": 100
+            },
+            {
+                "ITEM CODE": 722,
+                "ITEM NAME": "P/F ROTAR HOLDER (B)",
+                "RATE": 10,
+                "PKG": 200
+            },
+            {
+                "ITEM CODE": 731,
+                "ITEM NAME": "ADAPTOR",
+                "RATE": 23,
+                "PKG": 20
+            },
+            {
+                "ITEM CODE": 741,
+                "ITEM NAME": "PENDANT HOLDER",
+                "RATE": 30,
+                "PKG": 20
+            },
+            {
+                "ITEM CODE": 742,
+                "ITEM NAME": "ANGLE HOLDER",
+                "RATE": 37,
+                "PKG": 20
+            },
+            {
+                "ITEM CODE": 743,
+                "ITEM NAME": "Batten Holder (sada)",
+                "RATE": 37,
+                "PKG": 20
+            },
+            {
+                "ITEM CODE": 744,
+                "ITEM NAME": "ANGLE HOLER(FANCY)",
+                "RATE": 47,
+                "PKG": 20
+            },
+            {
+                "ITEM CODE": 745,
+                "ITEM NAME": "FANCY BATTEN HOLDER",
+                "RATE": 47,
+                "PKG": 20
+            },
+            {
+                "ITEM CODE": 747,
+                "ITEM NAME": "ANGLE HOLDER PLATE TYPE",
+                "RATE": 71,
+                "PKG": 10
+            },
+            {
+                "ITEM CODE": 749,
+                "ITEM NAME": "ANGLE HOLDER FANCY PLATE TYPE",
+                "RATE": 80,
+                "PKG": 5
+            },
+            {
+                "ITEM CODE": 753,
+                "ITEM NAME": "CEILING ROSE PLATE TYPE",
+                "RATE": 62,
+                "PKG": 10
+            },
+            {
+                "ITEM CODE": 754,
+                "ITEM NAME": "CEILING ROSE",
+                "RATE": 35,
+                "PKG": 15
+            },
+            {
+                "ITEM CODE": 755,
+                "ITEM NAME": "CEILING ROSE",
+                "RATE": 30,
+                "PKG": 20
+            },
+            {
+                "ITEM CODE": 771,
+                "ITEM NAME": "L.BRACKET",
+                "RATE": 38,
+                "PKG": 12
+            },
+            {
+                "ITEM CODE": 772,
+                "ITEM NAME": "JUMBO L Bracket",
+                "RATE": 55,
+                "PKG": 12
+            }
+        ]
+    },
+    {
+        "NAME": "SPOT LIGHTS",
+        "1 IMAGE PER ITEM": true,
+        "DESCRIPTION": "BEST QUALITY SPOT LIGHTS",
+        "PRODUCTS": [
+            {
+                "ITEM CODE": 776,
+                "ITEM NAME": "1W SPOT LIGHT",
+                "RATE": 88,
+                "PKG": 50
+            },
+            {
+                "ITEM CODE": 785,
+                "ITEM NAME": "3W  JUNCTION BOX  SPOT LIGHT",
+                "RATE": 122,
+                "PKG": 10
+            },
+            {
+                "ITEM CODE": 786,
+                "ITEM NAME": "3W CONCEALED SPOT LIGHT",
+                "RATE": 122,
+                "PKG": 10
+            },
+            {
+                "ITEM CODE": 787,
+                "ITEM NAME": "3W SPOT STRIKER METAL BASE",
+                "RATE": 122,
+                "PKG": 20
+            },
+            {
+                "ITEM CODE": 788,
+                "ITEM NAME": "3 W SPOT STRIKER PLASTIC",
+                "RATE": 88,
+                "PKG": 20
+            }
+        ]
+    },
+    {
+        "NAME": "FOOT LIGHTS",
+        "1 IMAGE PER ITEM": true,
+        "DESCRIPTION": "BEST QUALITY FOOT LIGHTS",
+        "PRODUCTS": [
+            {
+                "ITEM CODE": 901,
+                "ITEM NAME": "2M 3 LED WITH PLATE",
+                "RATE": 170,
+                "PKG": 5
+            },
+            {
+                "ITEM CODE": 902,
+                "ITEM NAME": "2M Soft Light WITH PLATE",
+                "RATE": 170,
+                "PKG": 5
+            },
+            {
+                "ITEM CODE": 903,
+                "ITEM NAME": "2M Grill WITH PLATE",
+                "RATE": 170,
+                "PKG": 5
+            },
+            {
+                "ITEM CODE": 914,
+                "ITEM NAME": "2M & 3M COMMON STEP UP",
+                "RATE": 170,
+                "PKG": 5
+            },
+            {
+                "ITEM CODE": 915,
+                "ITEM NAME": "3M DOWNLIGHT",
+                "RATE": 200,
+                "PKG": 5
+            },
+            {
+                "ITEM CODE": 916,
+                "ITEM NAME": "FOOT LIGHT 3M GRILL",
+                "RATE": 220,
+                "PKG": 5
+            },
+            {
+                "ITEM CODE": 918,
+                "ITEM NAME": "3M  COREL",
+                "RATE": 180,
+                "PKG": 5
+            },
+            {
+                "ITEM CODE": 919,
+                "ITEM NAME": "3M STEP LIGHT",
+                "RATE": 190,
+                "PKG": 5
+            },
+            {
+                "ITEM CODE": 920,
+                "ITEM NAME": "3M SOFT LIGHT",
+                "RATE": 220,
+                "PKG": 5
+            },
+            {
+                "ITEM CODE": 921,
+                "ITEM NAME": "4M SHUTTER",
+                "RATE": 200,
+                "PKG": 5
+            },
+            {
+                "ITEM CODE": 924,
+                "ITEM NAME": "4M HAVELS",
+                "RATE": 200,
+                "PKG": 5
+            },
+            {
+                "ITEM CODE": 925,
+                "ITEM NAME": "4M STEPLIGHT",
+                "RATE": 240,
+                "PKG": 5
+            },
+            {
+                "ITEM CODE": 927,
+                "ITEM NAME": "4 M SOFT LIGHT",
+                "RATE": 240,
+                "PKG": 5
+            },
+            {
+                "ITEM CODE": 931,
+                "ITEM NAME": "OUT DOOR",
+                "RATE": 405,
+                "PKG": 5
+            }
+        ]
+    }
+]
